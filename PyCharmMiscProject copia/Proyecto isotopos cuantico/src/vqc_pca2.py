@@ -354,7 +354,7 @@ def main():
         print(f"{isotope:10s}: {class_acc:.2f}% ({cm[i, i]}/{cm[i].sum()} correctos)")
 
     print("\n" + "=" * 70)
-    print("✅ ENTRENAMIENTO COMPLETADO")
+    print("ENTRENAMIENTO COMPLETADO")
     print("=" * 70)
 
 
